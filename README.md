@@ -1,4 +1,4 @@
-# Report-MarkdownGithub
+
 # Report GitHub
 ## I. Cách thức hoạt động của GitHub.
 - GitHub là một hệ thống quản lý dự án và phiên bản code, hoạt động giống như một mạng xã hội cho lập trình viên
