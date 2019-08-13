@@ -1,7 +1,7 @@
 # Report Markdown
 ## I. Markdown là gì? Markdown dùng để làm gì?
 -  Markdown là một ngôn ngữ đánh dấu với cú pháp văn bản thô, được thiết kế để có thể dễ dàng chuyển thành HTML.
-- Nó thường được dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định ạng bằng một trình biên tập văn bản thô.
+- Nó thường được dùng để tạo các tập tin readme, viết tin nhắn trên các diễn đàn, và tạo văn bản có định dạng bằng một trình biên tập văn bản thô.
 ## II. Các cú pháp thường gặp.
 ### 1. Tạo tiên đề
 - Markdown chỉ cần chèn ký tự # ngay phía trước. Số lượng ký tự # sẽ xác định độ sâu của tiêu đề (tương đương h1-h6 trong mã HTML).
