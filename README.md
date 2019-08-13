@@ -73,7 +73,7 @@
 - Bước 5: Kiểm Tra
 
     
-		`ssh -T git@github.com`
+		ssh -T git@github.com
         
  ### 3. Caching -your GitHub password in Git.
  - Nếu clone repository GitHub bằng HTTPS, bạn có thể sử dụng trình trợ giúp thông tin xác thực để Git nhớ tên người dùng và mật khẩu GitHub của bạn mỗi khi nói chuyện với GitHub.
