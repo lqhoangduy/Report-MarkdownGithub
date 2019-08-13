@@ -72,7 +72,6 @@
         
 - Bước 5: Kiểm Tra
 
-	-
     
 		`ssh -T git@github.com`
         
